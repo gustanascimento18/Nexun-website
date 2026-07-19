@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300"
+      viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+      <title id="title">Nexun Studio inline</title>
+      <desc id="desc">Logo vetorial Nexun Studio com fundo transparente.</desc>
+      
+    <defs>
+      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="100%" stop-color="#9A6BFF"/>
+      </linearGradient>
+    </defs>
+    
+      
+    <g fill="#F5F5F7">
+      <rect x="60" y="70" width="16.64" height="135.20000000000002"/>
+      <rect x="136.96000000000004" y="70" width="16.64" height="135.20000000000002"/>
+      <polygon points="60,70 76.64,70 153.60000000000002,205.20000000000002 136.96000000000004,205.20000000000002"/>
+    </g>
+    
+
+    <g fill="#F5F5F7">
+      <rect x="178.56" y="70" width="91.0" height="16.64" rx="2"/>
+      <rect x="178.56" y="129.28" width="91.0" height="16.64" rx="2"/>
+      <rect x="178.56" y="188.56" width="91.0" height="16.64" rx="2"/>
+    </g>
+    
+
+    <g transform="translate(294.52,70)" fill="url(#purpleGrad)">
+      <polygon points="0,0 46,0 114.4,135.20000000000002 68.4,135.20000000000002"/>
+      <polygon points="68.4,0 114.4,0 46,135.20000000000002 0,135.20000000000002"/>
+    </g>
+    
+
+    <path d="M 442.2 70
+             V 158.40000000000003
+             A 38.480000000000004 38.480000000000004 0 0 0 519.16 158.40000000000003
+             V 70"
+          fill="none" stroke="#F5F5F7" stroke-width="16.64"
+          stroke-linecap="butt" stroke-linejoin="round"/>
+    
+
+    <g fill="#F5F5F7">
+      <rect x="552.44" y="70" width="16.64" height="135.20000000000002"/>
+      <rect x="629.4000000000001" y="70" width="16.64" height="135.20000000000002"/>
+      <polygon points="552.44,70 569.08,70 646.0400000000001,205.20000000000002 629.4000000000001,205.20000000000002"/>
+    </g>
+    
+    <text x="860" y="185" text-anchor="start"
+          fill="#7C3AED" font-family="Arial, Helvetica, sans-serif"
+          font-size="34" font-weight="500" letter-spacing="12px">STUDIO</text>
+    
+    </svg>

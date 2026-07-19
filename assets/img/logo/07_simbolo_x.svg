@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000"
+      viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+      <title id="title">Símbolo X Nexun</title>
+      <desc id="desc">Logo vetorial Nexun Studio com fundo transparente.</desc>
+      
+    <defs>
+      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="100%" stop-color="#9A6BFF"/>
+      </linearGradient>
+    </defs>
+    
+      
+    <g transform="translate(160,160)" fill="url(#purpleGrad)">
+      <polygon points="0,0 46,0 680,680 634,680"/>
+      <polygon points="634,0 680,0 46,680 0,680"/>
+    </g>
+    
+    </svg>

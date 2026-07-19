@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340"
+      viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
+      <title id="title">Nexun Studio compacta</title>
+      <desc id="desc">Logo vetorial Nexun Studio com fundo transparente.</desc>
+      
+    <defs>
+      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="100%" stop-color="#9A6BFF"/>
+      </linearGradient>
+    </defs>
+    
+      
+    <g fill="#F5F5F7">
+      <rect x="60" y="55" width="18.56" height="150.79999999999998"/>
+      <rect x="145.83999999999997" y="55" width="18.56" height="150.79999999999998"/>
+      <polygon points="60,55 78.56,55 164.39999999999998,205.79999999999998 145.83999999999997,205.79999999999998"/>
+    </g>
+    
+
+    <g fill="#F5F5F7">
+      <rect x="192.23999999999998" y="55" width="101.5" height="18.56" rx="2"/>
+      <rect x="192.23999999999998" y="121.11999999999999" width="101.5" height="18.56" rx="2"/>
+      <rect x="192.23999999999998" y="187.23999999999998" width="101.5" height="18.56" rx="2"/>
+    </g>
+    
+
+    <g transform="translate(321.58,55)" fill="url(#purpleGrad)">
+      <polygon points="0,0 46,0 127.6,150.79999999999998 81.6,150.79999999999998"/>
+      <polygon points="81.6,0 127.6,0 46,150.79999999999998 0,150.79999999999998"/>
+    </g>
+    
+
+    <path d="M 486.29999999999995 55
+             V 153.6
+             A 42.919999999999995 42.919999999999995 0 0 0 572.14 153.6
+             V 55"
+          fill="none" stroke="#F5F5F7" stroke-width="18.56"
+          stroke-linecap="butt" stroke-linejoin="round"/>
+    
+
+    <g fill="#F5F5F7">
+      <rect x="609.26" y="55" width="18.56" height="150.79999999999998"/>
+      <rect x="695.1" y="55" width="18.56" height="150.79999999999998"/>
+      <polygon points="609.26,55 627.8199999999999,55 713.66,205.79999999999998 695.1,205.79999999999998"/>
+    </g>
+    
+    <text x="560" y="270" text-anchor="middle"
+          fill="#7C3AED" font-family="Arial, Helvetica, sans-serif"
+          font-size="42" font-weight="500" letter-spacing="22px">STUDIO</text>
+    
+    </svg>

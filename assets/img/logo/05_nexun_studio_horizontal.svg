@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="500"
+      viewBox="0 0 1380 500" role="img" aria-labelledby="title desc">
+      <title id="title">Nexun Studio horizontal</title>
+      <desc id="desc">Logo vetorial Nexun Studio com fundo transparente.</desc>
+      
+    <defs>
+      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="100%" stop-color="#9A6BFF"/>
+      </linearGradient>
+    </defs>
+    
+      
+    <g fill="#F5F5F7">
+      <rect x="120" y="70" width="28.8" height="234.0"/>
+      <rect x="253.2" y="70" width="28.8" height="234.0"/>
+      <polygon points="120,70 148.8,70 282.0,304.0 253.2,304.0"/>
+    </g>
+    
+
+    <g fill="#F5F5F7">
+      <rect x="325.2" y="70" width="157.5" height="28.8" rx="2"/>
+      <rect x="325.2" y="172.6" width="157.5" height="28.8" rx="2"/>
+      <rect x="325.2" y="275.2" width="157.5" height="28.8" rx="2"/>
+    </g>
+    
+
+    <g transform="translate(525.9,70)" fill="url(#purpleGrad)">
+      <polygon points="0,0 46,0 198.0,234.0 152.0,234.0"/>
+      <polygon points="152.0,0 198.0,0 46,234.0 0,234.0"/>
+    </g>
+    
+
+    <path d="M 781.4999999999999 70
+             V 223.00000000000003
+             A 66.6 66.6 0 0 0 914.6999999999999 223.00000000000003
+             V 70"
+          fill="none" stroke="#F5F5F7" stroke-width="28.8"
+          stroke-linecap="butt" stroke-linejoin="round"/>
+    
+
+    <g fill="#F5F5F7">
+      <rect x="972.3" y="70" width="28.8" height="234.0"/>
+      <rect x="1105.5" y="70" width="28.8" height="234.0"/>
+      <polygon points="972.3,70 1001.0999999999999,70 1134.3,304.0 1105.5,304.0"/>
+    </g>
+    
+    <text x="690" y="430" text-anchor="middle"
+          fill="#7C3AED" font-family="Arial, Helvetica, sans-serif"
+          font-size="52" font-weight="500" letter-spacing="28px">STUDIO</text>
+    
+    </svg>

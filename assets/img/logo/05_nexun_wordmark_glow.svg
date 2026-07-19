@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420"
+      viewBox="0 0 1500 420" role="img" aria-labelledby="title desc">
+      <title id="title">NEXUN</title>
+      <desc id="desc">Wordmark Nexun em branco com X roxo e fundo transparente.</desc>
+      
+    <defs>
+      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="100%" stop-color="#9A6BFF"/>
+      </linearGradient>
+      
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.8" result="white"/>
+      <feComposite in="white" in2="blur" operator="in" result="whiteBlur"/>
+      <feMerge>
+        <feMergeNode in="whiteBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    </defs>
+    
+      
+    <rect x="90" y="70" width="34" height="260" fill="#F5F5F7"/>
+    <rect x="236" y="70" width="34" height="260" fill="#F5F5F7"/>
+    <polygon points="90,70 124,70 270,330 236,330" fill="#F5F5F7"/>
+    
+      
+    <rect x="320" y="70" width="180" height="34" rx="2" fill="#F5F5F7"/>
+    <rect x="320" y="183.0" width="180" height="34" rx="2" fill="#F5F5F7"/>
+    <rect x="320" y="296" width="180" height="34" rx="2" fill="#F5F5F7"/>
+    
+      
+    <g transform="translate(560,70) scale(0.9166666666666666,1.0833333333333333)" filter="url(#softGlow)">
+      <polygon points="18,0 62,0 115,92 96,111" fill="url(#purpleGrad)"/>
+      <polygon points="144,129 222,240 178,240 125,148" fill="url(#purpleGrad)"/>
+      <polygon points="178,0 222,0 144,111 125,92" fill="url(#purpleGrad)"/>
+      <polygon points="96,129 115,148 62,240 18,240" fill="url(#purpleGrad)"/>
+    </g>
+    
+      
+    <path d="M 867.0 70
+             V 255.0
+             Q 867.0 313.0 945.0 313.0
+             Q 1023.0 313.0 1023.0 255.0
+             V 70"
+          fill="none" stroke="#F5F5F7" stroke-width="34"
+          stroke-linecap="butt" stroke-linejoin="round"/>
+    
+      
+    <rect x="1095" y="70" width="34" height="260" fill="#F5F5F7"/>
+    <rect x="1241" y="70" width="34" height="260" fill="#F5F5F7"/>
+    <polygon points="1095,70 1129,70 1275,330 1241,330" fill="#F5F5F7"/>
+    
+    </svg>
